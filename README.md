@@ -53,6 +53,7 @@ PicDrop | https://www.picdrop.de | Berlin
 pimentaGROUP | https://pimentagroup.de | Münster
 porta-Unternehmensgruppe | https://porta.de | Full Remote - Offices in Aschaffenburg, Berlin, Porta Westfalica, München
 real.digital | https://www.real-digital.de | Cologne / Darmstadt
+Sematell GmbH | https://www.sematell.com | Saarbrücken
 SkedGo | https://skedgo.com/ | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SocialSweethearts | https://socialsweethearts.de | Munich
